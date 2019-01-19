@@ -7,8 +7,9 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3B3E849B21EDBE410019AAD8 /* SortAlgorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = SortAlgorithm.app; path = "/Users/kyou/Desktop/SortAlgorithm/build/Debug-iphoneos/SortAlgorithm.app"; sourceTree = "<absolute>"; };
 		3B3E84B421EDCA070019AAD8 /* BubbleSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BubbleSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		6CF0424621EF854500C42FAE /* SortAlgorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = SortAlgorithm.app; path = "/Users/md/Desktop/SortAlgorithm/build/Debug-iphoneos/SortAlgorithm.app"; sourceTree = "<absolute>"; };
+		6CF0424721EF856B00C42FAE /* MergeSort.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MergeSort.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +34,7 @@
 			isa = PBXGroup;
 			children = (
 				3B3E84B421EDCA070019AAD8 /* BubbleSort.playground */,
+				6CF0424721EF856B00C42FAE /* MergeSort.playground */,
 			);
 			path = SortAlgorithm;
 			sourceTree = "<group>";
@@ -54,7 +56,7 @@
 			);
 			name = SortAlgorithm;
 			productName = SortAlgorithm;
-			productReference = 3B3E849B21EDBE410019AAD8 /* SortAlgorithm.app */;
+			productReference = 6CF0424621EF854500C42FAE /* SortAlgorithm.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
